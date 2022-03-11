@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @abhay-2711
+- 👋 Hi, I’m @abhay-2711 (Abhay Pratap Singh)
 - 👀 I’m interested in .learning..
-- 🌱 I’m currently learning .programming languge and DSA..
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...programming languge and DSA
 - 📫 How to reach me ...
 
 <!---
