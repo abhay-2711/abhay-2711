@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhay-2711 (Abhay Pratap Singh)
-- 👀 I’m interested in .learning..
-- 🌱 I’m currently learning ...programming languge and DSA
+- 👀 I’m interested in .learning..new tech stacks and creating imact through technology
+- 🌱 I’m currently learning .Flutter
 - 📫 How to reach me ...https://www.linkedin.com/in/abhay-pratap-singh-878457203/
 
 <!---
