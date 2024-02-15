@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **abhaypratap.s20@iiits.in**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PXPiJE4mx2Sx2pUQyXgUj9e-anVD9KBN/view?usp=drive_link](https://drive.google.com/file/d/1PXPiJE4mx2Sx2pUQyXgUj9e-anVD9KBN/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PXPiJE4mx2Sx2pUQyXgUj9e-anVD9KBN/view?usp=drive_link)
 
 - ⚡ Fun fact **I love singing.**
 
