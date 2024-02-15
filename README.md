@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Blockchain**
 
-- 👨‍💻 All of my projects are available at [https://github.com/abhay-2711/](https://github.com/abhay-2711/)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/abhay-2711/)
 
 - 💬 Ask me about **React, Nodejs, Express, Mongodb, Nextjs, Typescript, Javascript, DSA**
 
