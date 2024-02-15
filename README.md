@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhay-2711&label=Profile%20views&color=0e75b6&style=flat" alt="abhay-2711" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1EjTwZoYgtYG4UftLnJKtF0b09DQTxENm/view?usp=sharing">
+<img align="right" alt="Coding" width="400" src="https://prepexcellence.com/wp-content/uploads/2021/09/14.png">
 
 <p align="left"> <a href="https://twitter.com/abhaypr12328338" target="blank"><img src="https://img.shields.io/twitter/follow/abhaypr12328338?logo=twitter&style=for-the-badge" alt="abhaypr12328338" /></a> </p>
 
